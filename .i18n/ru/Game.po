@@ -3368,17 +3368,16 @@ msgstr ""
 #. §1: `a * b = 0`
 #. §2: `X ≠ 0`
 #. §3: `X = 0 → False`
-#. §4: `Показать дополнительные подсказки!`
 #: Game.Levels.AdvMultiplication.L02mul_left_ne_zero
 #, fuzzy
 msgid ""
 "We want to reduce this to a hypothesis §0 and a goal §1,\n"
 "which is logically equivalent but much easier to prove. Remember that §2\n"
-"is notation for §3. Click on §4 if you need hints."
+"is notation for §3. Click on \"Show more help!\" if you need hints."
 msgstr ""
 "Мы хотим свести все к гипотезе §0 и цели §1,\n"
 "которая логически эквивалентна, но доказывается намного проще. Напомню, что §2\n"
-"— обозначение для §3. Если нужны подсказки, нажми на §4."
+"— обозначение для §3. Если нужны подсказки, нажми на «Показать дополнительные подсказки!»."
 
 #. §0: `repeat rw [add_zero]`
 #: Game.Levels.Tutorial.L05add_zero
@@ -5107,7 +5106,7 @@ msgstr "x ≤ succ x"
 msgid ""
 "Can you take it from here? Click on \"Show more help!\" if you need a hint."
 msgstr ""
-"Сможешь дальше самостоятельно? Если что — нажми «Показать дополнительные подсказки»."
+"Сможешь дальше самостоятельно? Если что — нажми «Показать дополнительные подсказки!»."
 
 #. §0: `contrapose! h`
 #. §1: `succ m = succ n`
